@@ -1,0 +1,1 @@
+Project of the first Next Level Week (NLW) - organized by Rocketseat - where an application is developed based on thecorrect garbage collection, in order to give te correct destination for this material.
